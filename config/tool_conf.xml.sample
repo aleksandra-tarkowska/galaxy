@@ -41,6 +41,7 @@
     <tool file="extract/liftOver_wrapper.xml" />
   </section>
   <section id="textutil" name="Text Manipulation">
+    <tool file="filters/load_from_omero.xml" />
     <tool file="filters/fixedValueColumn.xml" />
     <tool file="filters/catWrapper.xml" />
     <tool file="filters/cutWrapper.xml" />
